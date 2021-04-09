@@ -1,0 +1,9 @@
+h3 {
+  padding: 20px;
+  background-color: rgb(230, 79, 79);
+  border:2px solid darkred;
+  border-radius: 10px;
+  color: white;
+  max-width: 200px;
+  text-align: center;
+}
